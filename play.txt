@@ -1,11 +1,13 @@
 ROMEO: Juligit, Oh Juligit, Where are you, I have a git to commit!
 
-JULLIET: Sir Romeo, bid me forewell as I am sick!
+JULIGIT: Sir Romeo, bid me forewell as I am sick!
 
 ROMEO: You are sick! This is frightful news, tell me, can I write a code to make you better?
 
-JULLIET: Yes, good sir. 
+JULIGIT: Yes, good sir. 
 
 ROMEO: Excelent! Unfortunately this is only my first day at the school of code bootcamp, you might have to wait a little while until I produce anything that cures sickness!
 
-False promises are not good for the soul, I accept the treachery that has befallen me :(
+JULIGIT: False promises are not good for the soul, I accept the treachery that has befallen me :(
+
+ROMEO: Juligit my dear, I will work hard I promice, you being sick brings great sadness to my heart :`(
