@@ -5,3 +5,5 @@ JULLIET: Sir Romeo, bid me forewell as I am sick!
 ROMEO: You are sick! This is frightful news, tell me, can I write a code to make you better?
 
 JULLIET: Yes, good sir. 
+
+ROMEO: Excelent! Unfortunately this is only my first day at the school of code bootcamp, you might have to wait a little while until I produce anything that cures sickness!
