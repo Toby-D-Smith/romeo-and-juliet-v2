@@ -7,3 +7,5 @@ ROMEO: You are sick! This is frightful news, tell me, can I write a code to make
 JULLIET: Yes, good sir. 
 
 ROMEO: Excelent! Unfortunately this is only my first day at the school of code bootcamp, you might have to wait a little while until I produce anything that cures sickness!
+
+False promises are not good for the soul, I accept the treachery that has befallen me :(
